@@ -31,7 +31,7 @@
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/KrlosDev/shadcn-landing-page.git
+git clone https://github.com/KrlosDev/shadcn-landing-page-main
 ```
 
 2. Go into project
